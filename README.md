@@ -32,7 +32,10 @@ hence the crash.
 
 in the crash stack I see my code being run by python27 still. My code is python3, so not sure why.
 
-# my gcloud nvironment
+# the patch applied to the installed files
+- I have added this patch to the python files as provided by google cloud SDK installation
+- https://github.com/NoCommandLine/dev_appserver-python3-windows
+# my gcloud environment
 ```bash
 Google Cloud SDK [428.0.0]
 
